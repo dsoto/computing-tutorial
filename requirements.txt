@@ -1,3 +1,5 @@
 ipywidgets
 pint
 bqplot
+scipy
+numpy
