@@ -3,3 +3,4 @@ pint
 bqplot
 scipy
 numpy
+matplotlib
